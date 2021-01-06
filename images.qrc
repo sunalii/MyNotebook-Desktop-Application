@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/cut.png</file>
+        <file>img/copy.png</file>
+        <file>img/earser.png</file>
+        <file>img/google.png</file>
+        <file>img/newfile.png</file>
+        <file>img/openfile.png</file>
+        <file>img/paste2.png</file>
+        <file>img/redo.png</file>
+        <file>img/save.png</file>
+        <file>img/textedit2.png</file>
+        <file>img/undo.png</file>
+        <file>img/save2.png</file>
+        <file>img/plymouth32.png</file>
+        <file>img/google128.png</file>
+        <file>img/paintbg128.png</file>
+        <file>img/pen2.png</file>
+        <file>img/pencil.png</file>
+        <file>img/plymouth128.png</file>
+        <file>img/paintbucket.png</file>
+        <file>img/changetextcolor.png</file>
+        <file>img/mynotebook128.png</file>
+        <file>img/highlight.png</file>
+        <file>img/blue.png</file>
+        <file>img/black.png</file>
+        <file>img/black2.png</file>
+        <file>img/black5.png</file>
+        <file>img/black8.png</file>
+        <file>img/green.png</file>
+        <file>img/red.png</file>
+        <file>img/white.png</file>
+    </qresource>
+</RCC>
